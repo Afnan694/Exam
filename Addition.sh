@@ -4,4 +4,5 @@ read num
 echo "Enter Number1"
 read num1
 
-echo $((num+num1))
+echo "Multiplication is "
+echo $((num*num1))
